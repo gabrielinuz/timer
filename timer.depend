@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432759079 source:/home/gabriel/Desarrollo/cplusplus/timer/main.cpp
+	<ctime>
+	<string>
+	<iostream>
+
